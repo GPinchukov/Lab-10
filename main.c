@@ -2,8 +2,8 @@
 main()
 {
 int i,j,k,n;
-float A[10][10],c,x[10],sum=0.0;
-printf("\n Vvedite razmernost matici ");
+float A[20][20],c,x[10],sum=0.0;
+printf("\n Vvedite razmernost  matrici ");
 scanf("%d",&n);
 printf("\n vedite elementy rashirenoy matrici \n\n" ); 
 for(i=1; i<=n; i++)
